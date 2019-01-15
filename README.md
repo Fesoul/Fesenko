@@ -1,2 +1,1 @@
-# Fesenko
-Lab.1(IT)
+[Мой сайт](https://crotopus.github.io/lab/ "Мой сайт")
