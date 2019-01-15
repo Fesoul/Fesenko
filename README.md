@@ -1,1 +1,1 @@
-[Мой сайт](https://fesoul.github.io/Fesenko/ "Мой сайт")
+[Моя страница](https://fesoul.github.io/Fesenko/ "Мой сайт")
